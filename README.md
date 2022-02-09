@@ -20,9 +20,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)&nbsp;
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)&nbsp;
 
-
-### ⚙️ &nbsp;My GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/LuccaTambor">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LuccaTambor&layout=compact&langs_count=8&theme=algolia"/>
