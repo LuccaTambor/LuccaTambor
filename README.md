@@ -1,7 +1,7 @@
 ## Hey there! I'm Lucca Tambor
 
 💡 &nbsp;I'm a developer trying to learn more every day.\
-🎓 &nbsp;I'm currently studying Computer Science at Universidade Estadual Paulista (UNESP).\
+🎓 &nbsp;Bachelors degree in Computer Science at Universidade Estadual Paulista (UNESP).\
 :computer: Software development intern at Rota das Oficinas.\
 :video_game: &nbsp;I like to read about game design and programming, culinary, and politics in my free time.\
 :email: &nbsp;You can shoot me an email at lucca.tambor@outlook.com. \
