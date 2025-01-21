@@ -2,7 +2,8 @@
 
 💡 &nbsp;I'm a developer trying to learn more every day.\
 🎓 &nbsp;Bachelors degree in Computer Science at Universidade Estadual Paulista (UNESP).\
-:computer: Software development intern at Rota das Oficinas.\
+:computer: FullStack Developer at Rota das Oficinas.\
+:computer: .NET, Java Script, Java and C are my most know languages.\
 :video_game: &nbsp;I like to read about game design and programming, culinary, and politics in my free time.\
 :email: &nbsp;You can shoot me an email at lucca.tambor@outlook.com. \
 :chains: &nbsp; You can see all my links to socials and other plataforms [HERE](https://allmylinks.com/luccatambor).
